@@ -1,2 +1,2 @@
 # netiq-idm-community-driver-configs
-Place to share information about driver configurations, packages
+Place to share information about driver configurations, packages. See the [Wiki](../../wiki).
